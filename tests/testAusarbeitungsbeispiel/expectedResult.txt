@@ -1,0 +1,5 @@
+Abweichungen in "result.txt" sind auf die Nutzung von Fließkommazahlen einfacher Genauigkeit zurückzuführen.
+3 2 3
+125.0125 0 1
+-5.6 2 0
+100.01 2 1
